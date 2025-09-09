@@ -11,15 +11,6 @@ My goal is to strengthen my practical skills in cybersecurity by building and do
 Through this repository, I aim to demonstrate my ability to analyze networks, identify vulnerabilities, and apply security concepts in real-world scenarios.  
 This serves both as a learning journal and as a portfolio to showcase my growth as a future cybersecurity professional.
 
-## 🛠 Skills
-
-- **Network Scanning & Enumeration** – Discovering hosts and services with Nmap.  
-- **Packet Capture & Analysis** – Using Wireshark to analyze traffic and detect anomalies.  
-- **Linux System Usage** – Leveraging Kali Linux for penetration testing tasks.  
-- **Virtualization & Lab Setup** – Building attacker/victim environments with VirtualBox.  
-- **Basic Scripting (Bash/Python)** – Automating scans and simple analysis tasks.  
-- **Technical Writing** – Creating structured reports in Markdown with screenshots.  
-
 ---
 
 ## 🛠 Skills
@@ -39,8 +30,8 @@ This serves both as a learning journal and as a portfolio to showcase my growth 
 
 | Project               | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
-| 🔍 **Lab 1: Nmap Scanning**      | TCP SYN scans on Windows VM, identified open/closed/filtered ports, verified with Wireshark |
-| 📡 **Lab 2: Wireshark Analysis** | Captured traffic, filtered responses, analyzed resets and blocked connections              |
+| 🔍 **Lab 1: <a href="https://github.com/MiljkovicMilica/Nmap-Wireshark-Lab">Nmap Scanning</a>**      | TCP SYN scans on Windows VM, identified open/closed/filtered ports, verified with Wireshark |
+| 📡 **Lab 2: <a href="https://github.com/MiljkovicMilica/Nmap-Wireshark-Lab">Wireshark</a>** | Captured traffic, filtered responses, analyzed resets and blocked connections              |
 | 🖥️ **Lab 3: Virtual Lab Attacks**| Simulated real-world attacker/victim scenarios with Kali Linux and Windows VMs             |
 
 ---
@@ -57,7 +48,7 @@ This serves both as a learning journal and as a portfolio to showcase my growth 
 
 ---
 
-## 📝 Example Project: Virtual Lab (Kali → Windows)
+## 📝 Example Project: Virtual Lab (Kali → Windows) 
 
 | Step                   | Action                                                                 |
 |-------------------------|------------------------------------------------------------------------|
