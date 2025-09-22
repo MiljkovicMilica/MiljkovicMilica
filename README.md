@@ -33,7 +33,7 @@ This serves both as a learning journal and as a portfolio to showcase my growth 
 | 🔍 **Lab 1: <a href="https://github.com/MiljkovicMilica/Nmap-Wireshark-Lab">Nmap Scanning</a>**      | TCP SYN scans on Windows VM, identified open/closed/filtered ports, verified with Wireshark |
 | 📡 **Lab 2: <a href="https://github.com/MiljkovicMilica/Nmap-Wireshark-Lab">Wireshark</a>** | Captured traffic, filtered responses, analyzed resets and blocked connections              |
 | 🖥️ **Lab 3: Virtual Lab Attacks**| Simulated real-world attacker/victim scenarios with Kali Linux and Windows VMs             |
-
+| 💻 **Lab 4:Nmap Recon (-sV) + Wireshark Verification + Splunk Log Analysis | Simple network reconnaissance workflow using **Nmap**, **Wireshark**, and **Splunk**|
 ---
 
 ## 👩‍💻 Skills from My Virtual Lab
@@ -74,5 +74,6 @@ This serves both as a learning journal and as a portfolio to showcase my growth 
 | 🔍 **Nmap**       | Network scanning and enumeration         |
 | 🌐 **Wireshark**  | Packet capture and traffic analysis      |
 | 📦 **VirtualBox** | Virtualization environment               |
+| 🔎 **Splunk**      | Log Analysis                            |
 
 ---
