@@ -1,5 +1,7 @@
 ## Welcome, I'm Milica 👋
-<a href="www.linkedin.com/in/milica-miljkovic-3ba74a158"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/milica-miljkovic-3ba74a158/)
+&nbsp;
 
 I graduated in 2023 with a degree in Computer Science, which sparked my passion for cybersecurity.  
 Since then, I’ve been exploring different areas of security through hands-on labs, research, and continuous learning.  
